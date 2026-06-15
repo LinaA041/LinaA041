@@ -18,7 +18,7 @@ He trabajado en proyectos relacionados con Kubernetes, GitOps, Infraestructura c
 
 # Proyectos destacados
 
-## Evaluación e implementación de WAF Open Source para Pymes
+## Evaluación e implementación de WAF para pymes
 
 Investigación experimental enfocada en la selección e implementación de un Web Application Firewall (WAF) de código abierto sobre hardware no dedicado para entornos pyme con recursos limitados.
 
